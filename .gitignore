@@ -1,0 +1,5 @@
+.deer-flow-home/
+.env
+__pycache__/
+*.log
+upstream/
